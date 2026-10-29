@@ -1,0 +1,20 @@
+{
+  "title": "Photonic entanglement swapping: code and data",
+  "upload_type": "software",
+  "description": "<p>Code and data accompanying <em>A mode-mixing threshold for entanglement swapping with one independent auxiliary photon</em>, by Annan Chen. Includes physical models, source-based data generation, acceptance policies, numerical data and figure scripts.</p><p>Source code and documentation are licensed under MIT (LICENSE). Data and scientific figures are licensed under Creative Commons Attribution 4.0 International (LICENSE-DATA).</p>",
+  "creators": [
+    {
+      "name": "Chen, Annan",
+      "affiliation": "Department of Physics, Imperial College London, London, United Kingdom",
+      "orcid": "0009-0000-1308-0466"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "quantum optics",
+    "entanglement swapping",
+    "partial distinguishability",
+    "reproducibility"
+  ]
+}
